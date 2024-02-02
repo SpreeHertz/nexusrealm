@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "username": "Eelonmuskonx",
+      "name": "Razin",
+      "avatar": "https://images-ext-2.discordapp.net/external/gLuf7CZkoXYResO6jDOdGI9sfx9pvplKR_z8YqvWlog/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/810506132346896395/bd7fe4ed74394b5280b1e255a4adfc74.png",
+      "joinDate": "since day 1",
+      "role": "Server Owner",
+      "bio": "As Razin finances the server, he is considered to be the owner of our server. He is considered to be a professional ticket creator as he loves to complain to the support teams of service providers, especially server providers.",
+      "discordUserId": "810506132346896395"
+      
+    },
+    {
+      "id": 2,
+      "username": "spreehertz",
+      "name": "spree",
+      "avatar": "https://images-ext-1.discordapp.net/external/z-CDn9c83beGJpshiatUvCC65MSwP_XzLKEcD4NFPGY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/755826968901058682/f6ad175a683e1c72306446b6afff2305.png",
+      "joinDate": "since day 3",
+      "role": "Admin & Web Developer",
+      "bio": "Spree is known for his absurd amount of man-made and natural islands he has conquered and made. He holds the record for having the most farms created, but most of them are unfortunately useless. Making aesthetic builds is not his strong suit, and a lot of his builds are an eyesore. Spree has contributed to the Tokyo Bay project."
+    },
+    {
+      "id": 3,
+      "username": "noobsensei69af",
+      "name": "rakeeb",
+      "avatar": "https://images-ext-2.discordapp.net/external/qthHGo4kdBaiohW9WW7Oe8tbpcTMeU5PQxZ71_6c5fg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/641608170153836555/e5766147abdff7fc54196ec309bd7ca3.png?width=676&height=676",
+      "joinDate": "since day 1",
+      "role": "Admin & Server Maintainer",
+      "bio": "Rakeeb is the redstone technician of our server & helps everyone with redstone stuff. His builds are impressive, and he has the best storage area ever created in our server (screenshot in homepage)."
+    },
+    {
+      "id": 4,
+      "username": "BlazeRYder",
+      "name": "shefin",
+      "avatar": "https://images-ext-2.discordapp.net/external/lw8Bwc4Renv_uCkc2kO5-1y709y5G4PqUEhXAS9wdhM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/720919336159543296/2a2a51401298971a1c23f38be051fa72.png",
+      "joinDate": "since day 3",
+      "role": "Rakeeb's Slave",
+      "bio": "Being Rakeeb's motivation to build, shefin is considered a slave of Rakeeb, as he contributes to a lot of his work. Shefin rarely creates his own builds, and both prefer to build together, as it can get tedious & boring as a one-man job."
+    },
+    {
+      "id": 5,
+      "username": "whipoo",
+      "name": "whip",
+      "avatar": "https://images-ext-2.discordapp.net/external/h-lOnZ7arV8b8ugK9xdWb9G7exh4pKeWtiyGitx_Lok/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/611227816779841539/5cebaf439aaa931c3bcf57d95a8d4480.png",
+      "joinDate": "April 02, 2023",
+      "role": "Slave",
+      "bio": "Whip is the only player on the server that has no independant builds. He's owned by spree and alen, and has contributed significantly to the Tokyo Bay project and spree's other projects."
+    },
+    {
+      "id": 6,
+      "username": "alen1x",
+      "name": "alen",
+      "avatar": "https://images-ext-1.discordapp.net/external/cnmjp_LUuu4f9eqYJ915DLsD16pjOQQoDFlu_oRczOY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/641637887510708224/1da840532c1ce655138aee8ed50953ad.png?width=676&height=676",
+      "joinDate": "April 13, 2023",
+      "role": "Player",
+      "bio": "Building aesthetic stuff is his strong suit, as he has great ocd. He is the creator of the Tokyo Bay project, and has contributed the most for it. "
+    },
+    {
+      "id": 7,
+      "username": "theinceptor_101",
+      "name": "Inceptor",
+      "avatar": "https://images-ext-2.discordapp.net/external/h__MdNd8q9F1ytJxXEBi_jI0rAETIGtt3jhT0jxbVbE/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1100073212341129378/c4c48f6f8429c6340a70286198e50e65.png",
+      "joinDate": "May 13, 2021",
+      "role": "Player",
+      "bio": "Spree's cousin."
+    },
+    {
+      "id": 8,
+      "username": "exility7",
+      "name": "Exility",
+      "avatar": "https://images-ext-1.discordapp.net/external/iOBg09BsTC8fTTMztVLHMTvH5fOI7kX-hTfk5KG8J_A/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/451459773016047636/55da9e3437352ffe0fe2d302941ee67a.png",
+      "joinDate": "since day 1",
+      "role": "Player",
+      "bio": "Exility rarely plays on the server, but has good taste in choosing the aesthetics for his projects. "
+    }
+    
+  ]
+  

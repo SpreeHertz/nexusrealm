@@ -1,0 +1,132 @@
+[
+    {
+          "book": "Unbreaking 3",
+          "location": "[redacted]",
+          "cost": 16
+    },
+    {
+      "book": "Fire Aspect 2",
+      "location": "Base Trading Center",
+      "cost": 17
+    },
+    {
+  
+      "book": "Channeling",
+      "location": "Base Trading Center",
+      "cost": 16
+    },
+    {
+  
+      "book": "Fortune 3",
+      "location": "Base Trading Center",
+      "cost": 24
+    },
+    {
+  
+      "book": "Protection 4",
+      "location": "Base Trading Center",
+      "cost": 12
+    },
+    {
+  
+      "book": "Silk Touch",
+      "location": "Razin's Trading Center",
+      "cost": 10
+    },
+    {
+      "book": "Mending",
+      "location": "Base Trading Center, [redacted]",
+      "cost": "12, 10"
+    },
+    {
+      "book": "Multishot",
+      "location": "Razin's Trading Center",
+      "cost": 6
+    },
+    {
+      "book": "Looting 3",
+      "location": "Razin's Trading Center",
+      "cost": 42
+    },
+    {
+      "book": "Impaling 5",
+      "location": "Razin's Trading Center",
+      "cost": 28
+    },
+    {
+      "book": "Smite V",
+      "location": "Razin's Trading Center",
+      "cost": 35
+    },
+    {
+      "book": "Flame",
+      "location": "Razin's Trading Center",
+      "cost": 6
+    },
+    {
+      "book": "Efficiency 5",
+      "location": "Razin's Trading Center",
+      "cost": 25
+    },
+    {
+      "book": "Sharpness 5",
+      "location": "Razin's Trading Center",
+      "cost": 64
+    },
+    {
+      "book": "Infinity",
+      "location": "Razin's Trading Center",
+      "cost": 6
+    },
+    {
+      "book": "Respiration 3",
+      "location": "Razin's Trading Center",
+      "cost": 44
+    },
+    {
+      "book": "Power 5",
+      "location": "Razin's Trading Center",
+      "cost": 30
+    },
+    {
+      "book": "Aqua Affinity",
+      "location": "Razin's Trading Center",
+      "cost": 8
+    },
+    {
+      "book": "Punch 2",
+      "location": "Razin's Trading Center",
+      "cost": 13
+    },
+    {
+      "book": "Thorns 3",
+      "location": "Razin's Trading Center & [redacted]",
+      "cost": "17 & 13"
+    },
+    {
+      "book": "Blast Protection 3",
+      "location":"Razin's Trading Center",
+      "cost": 45
+    },
+    {
+      "book": "Lure 3",
+      "location": "Razin's Trading Center",
+      "cost": 25
+    },
+    {
+      "book": "Feather Falling 4",
+      "location": "[redacted]",
+      "cost": 34
+    },
+    {
+      "book": "Depth Strider 3",
+      "location": "[redacted]",
+      "cost": 17
+    },
+    {
+      "book": "Sweeping Edge 3",
+      "location": "[redacted]",
+      "cost": 43
+    }
+  
+  ]
