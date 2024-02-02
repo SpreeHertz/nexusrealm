@@ -1,5 +1,5 @@
 <template>
-  <DangerNotification title="Server (temporarily) discontinued" description="As of June 2023, we've stopped actively playing on Yeet SMP due to some of our members having issues with their personal life & demotivation to work on our projects. Maybe we'll be back some day." />
+ <!-- /<DangerNotification title="Server (temporarily) discontinued" description="As of June 2023, we've stopped actively playing on Yeet SMP due to some of our members having issues with their personal life & demotivation to work on our projects. Maybe we'll be back some day." /> -->
     <Navbar />
 
 <div class="main flex justify-center flex-col pt-24 yeetsmp-landing">
